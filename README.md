@@ -6,4 +6,6 @@ https://www.nand2tetris.org
 
 02: Boolean Arithmetic
 
-03: Sequential Logic (in progress)
+03: Sequential Logic
+
+04: Machine Language (in progress)

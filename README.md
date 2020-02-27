@@ -8,4 +8,6 @@ https://www.nand2tetris.org
 
 03: Sequential Logic
 
-04: Machine Language (in progress)
+04: Machine Language
+
+05: Computer Architecture (in progress)

@@ -10,4 +10,6 @@ https://www.nand2tetris.org
 
 04: Machine Language
 
-05: Computer Architecture (in progress)
+05: Computer Architecture
+
+06: Assembler (in progress)
